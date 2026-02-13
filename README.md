@@ -29,8 +29,4 @@ All market data is retrieved directly from Yahoo Finance using the `yfinance` Py
 No datasets are stored in this repository. Data is downloaded automatically when running `main.ipynb`.
 
 ## License
-This project is licensed under the MIT License.
-
-
-## License
-This project is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
