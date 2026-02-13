@@ -4,17 +4,17 @@
 This repository contains the code and outputs used in this paper.
 
 ## Requirements
-Python 3.9.13
-yfinance 0.2.64
-pandas 1.4.4
-numpy 1.21.5
-statsmodels 0.13.2
-scipy 1.9.1
-matplotlib 3.5.2
-arch 6.1.0
-sklearn 1.0.2
-shap 0.41.0
-seaborn 0.11.2
+- Python 3.9.13
+- yfinance 0.2.64
+- pandas 1.4.4
+- numpy 1.21.5
+- statsmodels 0.13.2
+- scipy 1.9.1
+- matplotlib 3.5.2
+- arch 6.1.0
+- sklearn 1.0.2
+- shap 0.41.0
+- seaborn 0.11.2
 
 ## How to Run
 1. Download or clone this repository.
