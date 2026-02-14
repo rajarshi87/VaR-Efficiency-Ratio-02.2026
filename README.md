@@ -4,23 +4,25 @@
 This repository contains the code and outputs used in this paper.
 
 ## Requirements
-- Python 3.9.13
-- yfinance 0.2.64
-- pandas 1.4.4
-- numpy 1.21.5
-- statsmodels 0.13.2
-- scipy 1.9.1
-- matplotlib 3.5.2
-- arch 6.1.0
-- sklearn 1.0.2
-- shap 0.41.0
-- seaborn 0.11.2
+- Python 3.14.2  
+- yfinance 1.1.0  
+- pandas 3.0.0  
+- numpy 2.3.5  
+- statsmodels 0.14.6  
+- scipy 1.17.0  
+- matplotlib 3.10.8  
+- arch 8.0.0  
+- scikit-learn 1.8.0  
+- shap 0.50.0  
+- seaborn 0.13.2  
+- xlsxwriter 3.2.9  
 
 ## How to Run
 1. Download or clone this repository.
 2. Install required packages:
    ```bash
-   pip install yfinance==0.2.64 pandas==1.4.4 numpy==1.21.5 statsmodels==0.13.2 scipy==1.9.1 matplotlib==3.5.2 arch==6.1.0 scikit-learn==1.0.2 shap==0.41.0 seaborn==0.11.2
+   pip install yfinance==1.1.0 pandas==3.0.0 numpy==2.3.5 statsmodels==0.14.6 scipy==1.17.0 matplotlib==3.10.8 arch==8.0.0 scikit-learn==1.8.0 shap==0.50.0 seaborn==0.13.2 xlsxwriter==3.2.9
+
 3. Open main.ipynb and run (Kernel → Restart & Run All)
 4. Outputs (tables,plots) will be saved in the same folder.
 
